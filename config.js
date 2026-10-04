@@ -1,0 +1,1 @@
+window.UITA_CONFIG={url:"ここにSupabaseのProject URL",anonKey:"ここにSupabaseのanon public key"};
